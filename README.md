@@ -114,4 +114,4 @@ I build secure, data‑driven AI and full‑stack platforms—from ingestion & m
 ### Selected Projects
 | Project | Problem & Outcome | Role & Tech | Differentiator |
 |---------|------------------|-------------|----------------|
-| **SafeRoomAI** | Need rapid anomaly detection across streams → real-time alerts (~XX FPS @ YY ms) | Lead (PyTorch, YOLOv8, FastAPI, DVC, MLflow, React) | Fallback offline ingestion + reproducible MLOps |
+| **[SafeRoomAI](https://github.com/DC-Capstone1W25/SafeRoomAI)** | Need rapid anomaly detection across streams → real-time alerts (~XX FPS @ YY ms) | Lead (PyTorch, YOLOv8, FastAPI, DVC, MLflow, React) | Fallback offline ingestion + reproducible MLOps |
