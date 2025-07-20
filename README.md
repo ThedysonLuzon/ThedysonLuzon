@@ -35,34 +35,6 @@
 <!-- Plain-text fallback (optional)
 Email: luzon.thedyson@gmail.com | LinkedIn: /in/thedysonluzon | GitHub: @ThedysonLuzon | Portfolio: /
 -->
-
----
-
-### Value Proposition
-- Ship **production-ready AI services** with measurable performance (latency, throughput, accuracy).
-- Blend **MLOps rigor (DVC · MLflow · BentoML · K8s)** with **modern full‑stack (MERN + GraphQL)** for end‑to‑end ownership.
-- Emphasize **reproducibility, observability & maintainability** (versioned data/models, CI quality gates).
-- Communicate architecture & metrics clearly to reduce onboarding and iteration time.
-
-### Mission
-I build secure, data‑driven AI and full‑stack platforms—from ingestion & model training to container/K8s deployment and user dashboards—optimizing for repeatable delivery and low operational overhead.
-
-### Education
-- **Software Engineering Technology — Completed**  
-- **AI Design, Analysis & Implementation (Co‑op) — Finishing**  
-  - Capstone: *SafeRoomAI* (real-time video anomaly detection + full MLOps lifecycle)
-
----
-
-### Impact Highlights
-| Area | Outcome | Stack | Mechanism |
-|------|---------|-------|-----------|
-| Real-Time Inference | ~XX FPS multi‑camera, p95 YY ms | PyTorch, YOLOv8, FastAPI | Async batching, zero‑copy frames |
-| Experiment Cycle | Iteration time ↓ A days → B hours | DVC, MLflow | Data versioning & auto logging |
-| API Performance | p95 latency ZZ ms @ N req/s | FastAPI, Apollo, Express | Resolver batching & caching |
-| Deploy Efficiency | Image size ↓ C% (D1 → D2 MB) | Docker, Multi-stage | Slim base & layer pruning |
-| Reliability | Error rate < E% / uptime FF% | K8s, Probes, Logs | Readiness & liveness + structured logs |
-
 ---
 
 ### Core Tech Stack
@@ -108,6 +80,22 @@ I build secure, data‑driven AI and full‑stack platforms—from ingestion & m
 **Data & Storage:** PostgreSQL, MongoDB, AWS S3  
 **Quality / Tooling:** Pytest, Jest, Ruff, ESLint, Prettier  
 </details>
+
+---
+
+### Value Proposition
+- Ship **production-ready AI services** with measurable performance (latency, throughput, accuracy).
+- Blend **MLOps rigor (DVC · MLflow · BentoML · K8s)** with **modern full‑stack (MERN + GraphQL)** for end‑to‑end ownership.
+- Emphasize **reproducibility, observability & maintainability** (versioned data/models, CI quality gates).
+- Communicate architecture & metrics clearly to reduce onboarding and iteration time.
+
+### Mission
+I build secure, data‑driven AI and full‑stack platforms—from ingestion & model training to container/K8s deployment and user dashboards—optimizing for repeatable delivery and low operational overhead.
+
+### Education
+- **Software Engineering Technology — Completed**  
+- **AI Design, Analysis & Implementation (Co‑op) — Finishing**  
+  - Capstone: *SafeRoomAI* (real-time video anomaly detection + full MLOps lifecycle)
 
 ---
 
