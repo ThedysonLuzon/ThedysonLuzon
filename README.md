@@ -24,7 +24,7 @@
       </a><br><sub>GitHub</sub>
       </td>
     <td align="center">
-      <a href="https://thedysonluzon.github.io" title="Portfolio">
+      <a href="https://thedysonluzon.io" title="Portfolio">
         <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/globe-16.svg" height="22" alt="Portfolio"/>
       </a><br><sub>Portfolio</sub>
     </td>
